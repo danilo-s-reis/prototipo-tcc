@@ -1,0 +1,6 @@
+pandas
+sqlalchemy
+beautifulsoup4
+streamlit
+lxml
+plotly.express
