@@ -71,4 +71,6 @@ O dashboard estará acessível no seu navegador, geralmente em `http://localhost
 | **RNF-006** | Código modular e documentado. | Projeto dividido em `main.py`, `db_setup.py` e `dashboard.py`. |
 
 ## Demonstração dashboard
-<video src="./demo.mp4" width="100%" autoplay loop muted playsinline></video>
+
+https://github.com/user-attachments/assets/f3fb8e20-db7c-49a7-8011-6de128b63fb1
+
