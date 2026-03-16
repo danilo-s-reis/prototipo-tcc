@@ -70,3 +70,5 @@ O dashboard estará acessível no seu navegador, geralmente em `http://localhost
 | **RNF-003, RNF-005** | Técnicas anti-detecção (atrasos, User-Agents). | Simulado e comentado na função `simulate_web_scraping` em `main.py`. |
 | **RNF-006** | Código modular e documentado. | Projeto dividido em `main.py`, `db_setup.py` e `dashboard.py`. |
 
+## Demonstração dashboard
+<video src="./demo.mp4" width="100%" autoplay loop muted playsinline></video>
