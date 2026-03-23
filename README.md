@@ -1,6 +1,6 @@
 # Protótipo de Pipeline de Análise de Vagas de TI
 
-Este projeto é um protótipo em Python que implementa uma pipeline de **E**xtração, **T**ransformação e **C**arga (**ETL**) com um módulo de **P**rocessamento de **L**inguagem **N**atural (**PLN**) e um **Dashboard** interativo, conforme os requisitos e regras de negócio fornecidos.
+Este projeto é um protótipo em Python que implementa uma pipeline de **E**xtração, **T**ransformação e **C**arga (**ETL**) com um módulo de **P**rocessamento de **L**inguagem **N**atural (**PLN**) e um **Dashboard** interativo, conforme os requisitos e regras de negócio fornecidos na [documentação](./documentacao.pdf).
 
 ## Arquitetura e Tecnologias
 
